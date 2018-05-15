@@ -1,0 +1,15 @@
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\bin\Debug\MCLiquidator.exe.config
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\bin\Debug\MCLiquidator.exe
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\bin\Debug\MCLiquidator.pdb
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.csprojResolveAssemblyReference.cache
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MainWindow.g.cs
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\App.g.cs
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator_MarkupCompile.cache
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator_MarkupCompile.lref
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MainWindow.baml
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.g.resources
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.Properties.Resources.resources
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.csproj.GenerateResource.cache
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.csproj.CoreCompileInputs.cache
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.exe
+C:\Users\eamac\source\repos\MCLiquidator\MCLiquidator\obj\Debug\MCLiquidator.pdb
